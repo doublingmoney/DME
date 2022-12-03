@@ -1,0 +1,31 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Creators",
+            "value": "One"
+        }
+    ],
+    "background_color": "000000",
+    "description": "DoublingMoney",
+    "edition": "",
+    "external_url": "",
+    "image": "https://raw.githubusercontent.com/doublingmoney/DME/main/logo.png",
+    "name": "One",
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "6impCjvhhWeG9VaWW9WGaCR2xA9HTPPteZZDHK8YTxwK",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "file_type": "image/png",
+                "uri": "https://raw.githubusercontent.com/doublingmoney/DME/main/logo.png"
+            }
+        ]
+    },
+    "seller_fee_basis_points": 100,
+    "symbol": "DME"
+}
